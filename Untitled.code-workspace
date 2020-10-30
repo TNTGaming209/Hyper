@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../Little11-master"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../CStrong"
+		},
+		{
+			"path": "../cazalye _ Inspiration for your adventures_files"
+		},
+		{
+			"path": "../Projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website"
+	}
+}
