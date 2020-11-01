@@ -64,6 +64,7 @@ h1 {
     animation-duration: 4s;
   }
   @keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-  }
+    0% {background-color: orangered;}
+    25%   {background-color: red;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
