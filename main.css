@@ -3,12 +3,20 @@ h2 {
     color: #ffffff;
   }
   p {
-    font-size: 16px;
     width: 60%;
+    font-style:normal; 
+    font-weight:bold; 
+    font-size:40px;
+    color:black; 
+    text-align:center;
   }
 
 img {
     font-size: 16px;
+    text-align:center;
+    font-size:40px;
+    width: 60%;
+    height: 60%
 }
 h1 {
     background-color: #607d8b;
@@ -16,5 +24,46 @@ h1 {
   } 
   body{
     background-color: #607d8b; 
+  } 
+  main { 
+    font-size:36px; 
+    font-weight:bold; 
+    Text-align:center;
   }
-  
+  .gfg { 
+    margin-left:60px; 
+    border:50px solid #009900; 
+    width:600; 
+    height:400; 
+    text-align:center; 
+    padding:50px; 
+} 
+.gfg1 { 
+    font-size:42px; 
+    font-weight:bold; 
+    color:#009900; 
+    margin-top:60px; 
+    background-color:#c5c5db; 
+} 
+.gfg2 { 
+    font-size:18px; 
+    font-weight:bold; 
+    background-color:#c5c5db; 
+  }
+  img {
+    border: 1px solid #ddd;
+    border-radius: 36px;
+    padding: 5px;
+    width: 150px;
+  }
+  div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
