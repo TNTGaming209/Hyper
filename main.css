@@ -1,71 +1,13 @@
-h2 {
-    background-color: #607d8b;
-    color: #ffffff;
-  }
-  p {
-    width: 60%;
-    font-style:normal; 
-    font-weight:bold; 
-    font-size:40px;
-    color:black; 
-    text-align:center;
-  }
-
-img {
-    font-size: 16px;
-    text-align:center;
-    font-size:40px;
-    width: 60%;
-    height: 60%
+body {
+  background-color: white;
 }
+
 h1 {
-    background-color: #607d8b;
-    color: #ffffff;
-  } 
-  body{
-    background-color: #FFFFFF; 
-  } 
-  main { 
-    font-size:36px; 
-    font-weight:bold; 
-    Text-align:center;
-  }
-  .gfg { 
-    margin-left:60px; 
-    border:50px solid #009900; 
-    width:600; 
-    height:400; 
-    text-align:center; 
-    padding:50px; 
-} 
-.gfg1 { 
-    font-size:42px; 
-    font-weight:bold; 
-    color:#009900; 
-    margin-top:60px; 
-    background-color:#c5c5db; 
-} 
-.gfg2 { 
-    font-size:18px; 
-    font-weight:bold; 
-    background-color:#c5c5db; 
-  }
-  img {
-    border: 1px solid #ddd;
-    border-radius: 36px;
-    padding: 5px;
-    width: 150px;
-  }
-  div {
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    animation-name: example;
-    animation-duration: 4s;
-  }
-  @keyframes example {
-    0% {background-color: orangered;}
-    25%   {background-color: red;}
-    50%  {background-color: blue;}
-    100% {background-color: green;}
-  }
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
